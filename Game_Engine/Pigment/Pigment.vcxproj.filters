@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Loop">
+      <UniqueIdentifier>{41a65a0c-91d7-46e8-89f8-81b842cd56c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Event_Handling">
+      <UniqueIdentifier>{35145f8d-e1ea-40d3-bf41-fccd02fe6ebe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="State_Handling">
+      <UniqueIdentifier>{070590df-1b5d-4b81-9672-8600a54f9124}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Renderer">
+      <UniqueIdentifier>{24bce2a7-7865-4b9a-b3ed-07de2f655e5b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
